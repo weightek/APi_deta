@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "singh",
+        "email": "singh@gmail.com",
+        "roll": "teacher"
+    },
+    {
+        "id": 2,
+        "name": "singh",
+        "email": "singh@gmail.com",
+        "roll": "teacher"
+    },
+    {
+        "id": 3,
+        "name": "baba",
+        "email": "baba@gmail.com",
+        "roll": "student"
+    },
+    {
+        "id": 4,
+        "name": "bab",
+        "email": "bab@gmail.com",
+        "roll": "teacher"
+    },
+    {
+        "id": 6,
+        "name": "sinh",
+        "email": "sngh@gmail.com",
+        "roll": "teacher"
+    }
+]
